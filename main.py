@@ -14,7 +14,7 @@ x = 10
 y = 13
 if x > y:
     print("achieved")
-elif y==x :
+elif y == x:
     print("no way")
 else:
     print("No we did it")
